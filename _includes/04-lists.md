@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. Partying
+2. School
+  1. Econ
+  2. Finance
